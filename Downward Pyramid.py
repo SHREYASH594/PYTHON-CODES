@@ -8,4 +8,3 @@ for i in range(t):
   print(m*s,t*d)
   t -= 1
   m += 1
-print(" \nThanks for using this program... \nMade by Devansh Tyagi")
